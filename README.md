@@ -12,5 +12,25 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+## Running backend tests
+
+The repository includes FastAPI backend tests under the `tests/` directory.
+
+To run the backend test suite, execute:
+
+```bash
+git clone https://github.com/Konigmann/skills-getting-started-with-github-copilot.git
+cd skills-getting-started-with-github-copilot
+pytest -q
+```
+
+If you’re already in the repo, just run:
+
+```bash
+pytest -q
+```
+
+---
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
